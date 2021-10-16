@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connect to Data from the Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Change Viewer Options from the Controller", "Change Viewer Options from the Controller\Change Viewer Options from the Controller.csproj", "{F2CABF35-6189-445F-A8D6-9218A9622475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Report Export Service", "Report Export Service\Report Export Service.csproj", "{EB2D7B2E-0D7A-495F-BF1E-886CA1F88BE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F2CABF35-6189-445F-A8D6-9218A9622475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CABF35-6189-445F-A8D6-9218A9622475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CABF35-6189-445F-A8D6-9218A9622475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2D7B2E-0D7A-495F-BF1E-886CA1F88BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2D7B2E-0D7A-495F-BF1E-886CA1F88BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2D7B2E-0D7A-495F-BF1E-886CA1F88BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2D7B2E-0D7A-495F-BF1E-886CA1F88BE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
