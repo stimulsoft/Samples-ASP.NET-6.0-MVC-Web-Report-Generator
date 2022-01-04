@@ -5,11 +5,11 @@
 # Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
 * Adding a Custom Function to the Designer
+* Adding a Font to the Resource
 * Changing the Viewer Theme
 * Creating a Custom Button on the Viewer Toolbar
 * Editing a Report Template in the Designer
 * Exporting and Printing a Report from Code
-* Using the Full-Screen Mode in the Viewer
 * Localizing the Viewer
 * Managing Report Printing and Exporting
 * Rendering and Exporting a Report in the Console App
@@ -18,6 +18,8 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * Showing a Report in the Viewer
 * Showing Interactive Reports
 * Using Business Objects in the Report
+* Using a Custom Data Adapter
+* Using the Full-Screen Mode in the Viewer
 * Web Demo
 
 They are all combined in a Visual Studio solution (.sln-file).
