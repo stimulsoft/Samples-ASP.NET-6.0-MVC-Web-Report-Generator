@@ -8,6 +8,7 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * Adding a Font to the Resource
 * Changing the Viewer Theme
 * Creating a Custom Button on the Viewer Toolbar
+* Creating a Custom Parameter Panel for the Viewer
 * Editing a Report Template in the Designer
 * Exporting and Printing a Report from Code
 * Localizing the Viewer
