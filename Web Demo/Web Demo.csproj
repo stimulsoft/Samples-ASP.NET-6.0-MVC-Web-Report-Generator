@@ -6,4 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Stimulsoft.Reports.Web.NetCore" Version="2022.1.5" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
 </Project>
