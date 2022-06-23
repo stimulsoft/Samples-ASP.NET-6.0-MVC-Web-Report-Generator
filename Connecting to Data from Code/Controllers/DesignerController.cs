@@ -31,7 +31,10 @@ namespace Connecting_to_Data_from_Code.Controllers
             var reportPath = StiNetCoreHelper.MapPath(this, "Reports/TwoSimpleLists.mrt");
             var report = new StiReport();
             report.Load(reportPath);
-            
+
+            // Deleting connections in the report template
+            report.Dictionary.Databases.Clear();
+
             return StiNetCoreDesigner.GetReportResult(this, report);
         }
 
@@ -40,8 +43,8 @@ namespace Connecting_to_Data_from_Code.Controllers
             // Getting a preview report
             var report = StiNetCoreDesigner.GetActionReportObject(this);
 
-            // Deleting connections in the report template
-            report.Dictionary.Databases.Clear();
+            // Deleting connections in the report template for the preview
+            //report.Dictionary.Databases.Clear();
 
             // Loading data from the XML file
             var dataPath = StiNetCoreHelper.MapPath(this, "Reports/Data/Demo.xml");
