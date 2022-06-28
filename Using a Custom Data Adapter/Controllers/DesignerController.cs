@@ -36,6 +36,11 @@ namespace Using_a_Custom_Data_Adapter.Controllers
             var database = new CustomPostgreSQLDatabase("CustomData1", "Server=127.0.0.1; Port=5432; Database=myDataBase; User Id=myUsername; Password=myPassword;");
             report.Dictionary.Databases.Add(database);
 
+            //Adding a reference to this project using a custom adapter class
+            var assemblies = report.ReferencedAssemblies.ToList();
+            assemblies.Add("Using_a_Custom_Data_Adapter.dll");
+            report.ReferencedAssemblies = assemblies.ToArray();
+
             return StiNetCoreDesigner.GetReportResult(this, report);
         }
 
