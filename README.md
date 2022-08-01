@@ -24,6 +24,7 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * Using a Report Export Service
 * Using Business Objects in the Report
 * Using the Full-Screen Mode in the Viewer
+* Using Variables in the Report
 * Web Demo
 
 They are all combined in a Visual Studio solution (.sln-file).
