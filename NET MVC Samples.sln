@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating a Custom Parameter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Variables in the Report", "Using Variables in the Report\Using Variables in the Report.csproj", "{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuring Report caching", "Configuring Report caching\Configuring Report caching.csproj", "{A992588E-DAAE-46A7-B0FA-135AD219FD21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A992588E-DAAE-46A7-B0FA-135AD219FD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A992588E-DAAE-46A7-B0FA-135AD219FD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A992588E-DAAE-46A7-B0FA-135AD219FD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A992588E-DAAE-46A7-B0FA-135AD219FD21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
