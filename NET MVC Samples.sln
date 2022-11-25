@@ -45,7 +45,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using a Custom Data Adapter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating a Custom Parameter Panel for the Viewer", "Creating a Custom Parameter Panel for the Viewer\Creating a Custom Parameter Panel for the Viewer.csproj", "{BBB557C4-F01D-4F80-B28E-AF91DB3CD21C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Variables in the Report", "Using Variables in the Report\Using Variables in the Report.csproj", "{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Report Variables in Code", "Using Report Variables in Code\Using Report Variables in Code.csproj", "{033283D2-EBB9-44B0-8C39-2F6B6FA9D211}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuring Report caching", "Configuring Report caching\Configuring Report caching.csproj", "{A992588E-DAAE-46A7-B0FA-135AD219FD21}"
 EndProject

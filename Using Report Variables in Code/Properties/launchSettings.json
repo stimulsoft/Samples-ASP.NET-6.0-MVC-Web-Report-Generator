@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Using_Variables_in_the_Report": {
+    "Using_Report_Variables_in_Code": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Using_Variables_in_the_Report.Models;
+using Using_Report_Variables_in_Code.Models;
 
-namespace Using_Variables_in_the_Report.Controllers
+namespace Using_Report_Variables_in_Code.Controllers
 {
     public class HomeController : Controller
     {

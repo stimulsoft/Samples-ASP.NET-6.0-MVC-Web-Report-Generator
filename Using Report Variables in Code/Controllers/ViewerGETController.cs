@@ -2,7 +2,7 @@
 using Stimulsoft.Report;
 using Stimulsoft.Report.Mvc;
 
-namespace Using_Variables_in_the_Report.Controllers
+namespace Using_Report_Variables_in_Code.Controllers
 {
     public class ViewerGETController : Controller
     {

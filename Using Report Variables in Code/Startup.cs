@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace Using_Variables_in_the_Report
+namespace Using_Report_Variables_in_Code
 {
     public class Startup
     {

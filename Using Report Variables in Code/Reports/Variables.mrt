@@ -220,7 +220,7 @@
   <ReportChanged>2/14/2022 4:28:41 PM</ReportChanged>
   <ReportCreated>12/13/2004 12:12:00 AM</ReportCreated>
   <ReportDescription isNull="true" />
-  <ReportFile>D:\Stimulsoft\Samples\Samples-ASP.NET-CSharp\Using Variables in the Report\Reports\Variables.mrt</ReportFile>
+  <ReportFile>D:\Stimulsoft\Samples\Samples-ASP.NET-CSharp\Using Report Variables in Code\Reports\Variables.mrt</ReportFile>
   <ReportGuid>93d4d21a81cf40bb88ec0d735db73f22</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Centimeters</ReportUnit>

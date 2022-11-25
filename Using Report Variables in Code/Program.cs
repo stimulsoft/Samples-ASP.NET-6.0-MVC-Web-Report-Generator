@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Using_Variables_in_the_Report
+namespace Using_Report_Variables_in_Code
 {
     public class Program
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace Using_Variables_in_the_Report.Models
+namespace Using_Report_Variables_in_Code.Models
 {
     public class ErrorViewModel
     {
