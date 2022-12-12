@@ -1,6 +1,6 @@
-# ASP.NET Core MVC C# samples for Stimulsoft Reports.WEB
+# ASP.NET Core MVC samples for Stimulsoft Reports.WEB
 
-#### This repository contains the source code of the examples of usage Stimulsoft Reports.WEB reporting tool in the ASP.NET Core applications, using C# code and HTML5 components. This product and examples are compatible with .NET 5.0 and higher.
+#### This repository contains the source code of the examples of usage Stimulsoft Reports.WEB reporting tool in the ASP.NET Core applications, using C# code and HTML5 components. This product and examples are compatible with .NET 5.0 / 6.0 / 7.0 frameworks.
 
 # Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
