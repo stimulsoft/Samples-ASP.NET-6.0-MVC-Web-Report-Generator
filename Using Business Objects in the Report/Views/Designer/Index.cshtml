@@ -1,0 +1,23 @@
+﻿@using Stimulsoft.Report.Mvc;
+@using Stimulsoft.Report.Web
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "some stuff [BusinessObject]";
+}
+
+@Html.StiNetCoreDesigner(new StiNetCoreDesignerOptions()
+    {
+        Theme = StiDesignerTheme.Office2022DarkGrayBlue,
+        Server =
+        {
+            CacheMode = StiServerCacheMode.StringCache,
+            Controller = "Designer",
+        },
+        Actions =
+        {
+            GetReport = "GetReportIEnumerableBO",
+            DesignerEvent = "DesignerEvent",
+            PreviewReport = "PreviewReport",
+        }
+    })
